@@ -1,7 +1,7 @@
 Topic - Biomechanical analysis for weightlifting performance 
         enhancement
 
-Member Name                  Student ID 
+Group Details:
 Gunawardena K.S.S (Leader) - IT21250088
 Wimalarathna S.D.A.N.      - IT21312212 
 Ranatunga B.M.             - IT21313134 
